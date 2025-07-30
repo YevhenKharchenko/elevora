@@ -50,15 +50,36 @@ html {
   }
 }
 
-.section-title {
-  font-family: 'Playfair Display', sans-serif;
-  font-weight: 700;
-  font-size: 20px;
-  line-height: 1.3;
-  text-align: center;
-  color: #000;
+.section-title-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 
   @include media(desktop) {
-    font-size: 36px;
   }
+}
+
+.section-title {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1.5;
+  color: #3e4d4f;
+}
+
+.section-subtitle {
+  font-family: 'Playfair Display', sans-serif;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 1.5;
+  color: #182226;
+
+  @include media(desktop) {
+    font-size: 48px;
+  }
+}
+
+.subtitle-span {
+  font-style: italic;
+  font-weight: 600;
 }
