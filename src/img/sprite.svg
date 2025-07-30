@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" style="position:absolute;width:0;height:0;overflow:hidden">
+  <defs>
+    <symbol id="icon-linkedin" viewBox="0 0 32 32">
+      <path fill="#f6f9fe" d="M25.333 4A2.67 2.67 0 0 1 28 6.667v18.667a2.67 2.67 0 0 1-2.667 2.667H6.666a2.668 2.668 0 0 1-2.667-2.667V6.667A2.668 2.668 0 0 1 6.666 4h18.667zm-.666 20.667V17.6a4.35 4.35 0 0 0-4.347-4.347c-1.133 0-2.453.693-3.093 1.733v-1.48h-3.72v11.16h3.72v-6.573c0-1.027.827-1.867 1.853-1.867a1.867 1.867 0 0 1 1.867 1.867v6.573h3.72zM9.173 11.413a2.24 2.24 0 0 0 2.24-2.24c0-1.24-1-2.253-2.24-2.253A2.257 2.257 0 0 0 6.92 9.173c0 1.24 1.013 2.24 2.253 2.24zm1.854 13.254v-11.16H7.334v11.16h3.693z" style="fill:var(--color1, #f6f9fe)"/>
+    </symbol>
+    <symbol id="icon-close" viewBox="0 0 32 32">
+      <path fill="none" stroke="#3e4d4f" stroke-width="1.333" d="M16 .667C24.468.667 31.333 7.532 31.333 16S24.468 31.333 16 31.333.667 24.468.667 16 7.532.667 16 .667z" style="stroke:var(--color2, #3e4d4f)"/>
+      <path fill="none" stroke="#182226" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.333" d="m7 7 9 9m0 0-9 9m9-9 9 9m-9-9 9-9" style="stroke:var(--color3, #182226)"/>
+    </symbol>
+    <symbol id="icon-email" viewBox="0 0 32 32">
+      <path fill="#f6f9fe" d="M2.979 5.809A1.325 1.325 0 0 1 4 5.333h24.005a1.338 1.338 0 0 1 1.329 1.347v15.987a4.003 4.003 0 0 1-4 4H6.667a4.003 4.003 0 0 1-4-4v-16c0-.314.11-.617.312-.857zm2.354 4.076v12.781A1.335 1.335 0 0 0 6.667 24h18.667a1.334 1.334 0 0 0 1.334-1.334V9.885l-9.724 9.724a1.333 1.333 0 0 1-1.886 0L5.334 9.885z" style="fill:var(--color1, #f6f9fe)"/>
+    </symbol>
+    <symbol id="icon-instagram" viewBox="0 0 32 32">
+      <path fill="#f6f9fe" d="M10.4 2.667h11.2a7.739 7.739 0 0 1 7.733 7.733v11.2a7.733 7.733 0 0 1-7.733 7.733H10.4A7.739 7.739 0 0 1 2.667 21.6V10.4A7.733 7.733 0 0 1 10.4 2.667zm-.267 2.666a4.8 4.8 0 0 0-4.8 4.8v11.733c0 2.653 2.147 4.8 4.8 4.8h11.733a4.8 4.8 0 0 0 4.8-4.8V10.133c0-2.653-2.147-4.8-4.8-4.8H10.133zm12.867 2a1.663 1.663 0 0 1 1.179 2.844 1.67 1.67 0 0 1-2.846-1.178A1.667 1.667 0 0 1 23 7.333zm-7 2a6.67 6.67 0 0 1 4.714 11.381A6.668 6.668 0 1 1 16 9.333zM16 12a4.003 4.003 0 0 0-4 4 4.003 4.003 0 0 0 4 4 4.003 4.003 0 0 0 4-4 4.003 4.003 0 0 0-4-4z" style="fill:var(--color1, #f6f9fe)"/>
+    </symbol>
+    <symbol id="icon-menu" viewBox="0 0 32 32">
+      <path fill="none" stroke="#3e4d4f" stroke-width="1.333" d="M16 .667C24.468.667 31.333 7.532 31.333 16S24.468 31.333 16 31.333.667 24.468.667 16 7.532.667 16 .667z" style="stroke:var(--color2, #3e4d4f)"/>
+      <path fill="none" stroke="#182226" stroke-linecap="round" stroke-width="1.333" d="M7.5 9.5h17m-17 12h17m-17-6h17" style="stroke:var(--color3, #182226)"/>
+    </symbol>
+    <symbol id="icon-plus" viewBox="0 0 32 32">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.333" d="M16 3.272V16m0 0H3.272M16 16v12.728M16 16h12.728"/>
+    </symbol>
+  </defs>
+</svg>
